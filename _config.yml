@@ -647,7 +647,8 @@ leancloud_visitors:
   # Dependencies: https://github.com/theme-next/hexo-leancloud-counter-security
   # If you don't care about security in lc counter and just want to use it directly
   # (without hexo-leancloud-counter-security plugin), set the `security` to `false`.
-  security: true
+  # 没研究安全性问题指的是什么， 先开起来再说
+  security: false
   betterPerformance: false
 
 # Another tool to show number of visitors to each article.
