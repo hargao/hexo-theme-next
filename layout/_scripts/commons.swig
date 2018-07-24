@@ -1,7 +1,10 @@
 {%
   set js_commons = [
     'src/utils.js',
-    'src/motion.js'
+    'src/motion.js',
+    'src/kity.min.js',
+    'src/kityminder.core.min.js',
+    'src/mindmap.js'
   ]
 %}
 
